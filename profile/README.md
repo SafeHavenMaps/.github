@@ -1,4 +1,6 @@
-<img src="/profile/banner.webp" alt="SafeHaven Banner"/>
+<p align="center">
+<img src=".github/assets/banner.webp" alt="SafeHaven Banner"/>
+</p>
 
 ## 📚 About
 
