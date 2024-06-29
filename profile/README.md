@@ -6,7 +6,7 @@
 
 ## 📚 About
 
-SafeHaven is an open-source project aimed at creating a map of safe spaces for people in need. 
+An open-source solution to create collaborative maps.
 
 ## 🎓 Learn
 
